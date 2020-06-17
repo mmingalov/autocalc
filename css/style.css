@@ -1,0 +1,157 @@
+﻿* {
+	border: 0px dashed #cc6600;
+}
+body {
+	background: url(auction_page15.jpg);
+	width: 1200px;
+	
+}
+#header {
+    position: relative;
+    top: -5px;
+    background-color: #00A0B0;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+	height: 28px;
+	border: 1px dashed #cc6600;
+	text-align: left;
+}
+#header p {
+	color: #ffffff;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-left: 200px;
+}
+
+.result {
+	font-family: Verdana, Arial, sans-serif;
+	color: #00A0B0;
+	/*border: 1px dashed #cc6600;
+	margin: 5px 0 0 0;*/
+	margin-left:200px;
+}
+
+.result:nth-child(2n) {
+	font-family: Verdana, Arial, sans-serif;
+	color: gray;
+	/*border: 1px dashed #cc6600;
+	margin: 5px 0 0 0;*/
+	margin-left:200px;
+}
+
+#block3 {
+	width:600px;
+	margin-left:200px;
+	clear: both;
+	
+}
+#buttons a {
+	font-size: 110%;
+	
+}
+
+#footer a {
+    font-family: Verdana, Arial, sans-serif;
+    color: #777;
+	font-size: 0.8em;	
+	
+}
+
+.share42init {
+	width:600px;
+	margin-left:200px;
+}
+
+form {
+    font-family: Verdana, Arial, sans-serif;
+}
+
+p {
+    font-family: Verdana, Arial, sans-serif;
+    display: inline-block;
+}
+
+a {
+	font-size: 0.8em;
+	color: blue;
+}
+
+input {
+    font-family: Verdana, Arial, sans-serif;
+    color: #777;
+}
+
+#wrapper {
+	
+	background: rgba(255,255,255,0.5);
+    border-left: 0px solid #888;
+    border-right: 2px solid #888;
+    border-bottom: 2px solid #888;
+    padding-left: 0px;
+	width: 1200px;
+    
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 0.8em;
+}
+	
+	#ads_left {
+		width: 200px;
+		height: 600px;
+		float: left;
+	}
+	
+	#inputs {
+		position: absolute;
+		height: 600px;
+		width: 590px;	
+		left: 210px;
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+		.menuitem {
+			height: 18px;
+			display: inline-block;
+			font-size: 110%;
+			font-weight: bold;
+		}
+	
+	#ads_right {
+		position: absolute;
+		left: 810px;
+		width: 400px;
+		height: 600px;
+		text-align: center;
+	}
+#inputs input {
+	width: 70px;
+	border: 1px solid #00A0B0;
+	
+	
+}
+
+#sliderSumLot {
+	margin-left: 0px;
+	width: 424px;
+	border: 1px solid #00A0B0;
+}
+	
+#buttons {
+	width: 600px;
+	text-align: left;
+	height: 40px;
+	clear: both;
+	margin-left:200px;
+	padding-left:5px;
+	
+	}
+#buttons input {
+	margin-top:0px;
+	height: 32px;
+	border: 1px solid #00A0B0;
+	background-color: 99ccff;
+	font-weight: bold;
+	
+}
+
